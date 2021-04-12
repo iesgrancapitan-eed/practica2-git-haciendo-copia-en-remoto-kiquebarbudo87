@@ -13,7 +13,8 @@ git branch -M main
 
 git push -u origin main  
 
-![Git bash](Captura2.JPG)
+![Git bash](Captura2.JPG)  
+
 4. En local (no debes trabajar en el remoto) y siempre desde git Bash añade el fichero README.md con estas instrucciones y sus pantallazos.  
 
 5. Sincroniza tus cambios con el repositorio remoto (git push)  
